@@ -1,0 +1,43 @@
+10
+
+dir
+6
+http://pretty-file-manager.googlecode.com/svn/trunk/PrettyFileManager/src
+http://pretty-file-manager.googlecode.com/svn
+
+
+
+2014-05-30T13:59:45.358664Z
+6
+prettyfilemanager
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+5f883591-1871-ad23-21de-76a09f747381
+
+ui
+dir
+
+localStorage
+dir
+
+model
+dir
+
+dao
+dir
+
+controller
+dir
+

@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/6/trunk/PrettyFileManager/src/dao
+END
+CopyDirDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/6/trunk/PrettyFileManager/src/dao/CopyDirDao.java
+END
+CutDirDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/6/trunk/PrettyFileManager/src/dao/CutDirDao.java
+END
+CopyDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/4/trunk/PrettyFileManager/src/dao/CopyDao.java
+END
+CutDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/4/trunk/PrettyFileManager/src/dao/CutDao.java
+END
+CreateFolderDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/4/trunk/PrettyFileManager/src/dao/CreateFolderDao.java
+END
+OpenFileDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/4/trunk/PrettyFileManager/src/dao/OpenFileDao.java
+END
+DeleteDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/4/trunk/PrettyFileManager/src/dao/DeleteDao.java
+END
+CreateDocumentDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/4/trunk/PrettyFileManager/src/dao/CreateDocumentDao.java
+END
+CmdDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/3/trunk/PrettyFileManager/src/dao/CmdDao.java
+END
+FillRootComboBoxDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/4/trunk/PrettyFileManager/src/dao/FillRootComboBoxDao.java
+END
+SearchDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/4/trunk/PrettyFileManager/src/dao/SearchDao.java
+END
+MoveDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/6/trunk/PrettyFileManager/src/dao/MoveDao.java
+END
+CutOrCopyDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/3/trunk/PrettyFileManager/src/dao/CutOrCopyDao.java
+END
+RenameDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/4/trunk/PrettyFileManager/src/dao/RenameDao.java
+END
